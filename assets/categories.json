@@ -1,0 +1,42 @@
+[
+  {
+    "code": "alkali-metals",
+    "description": "Metales alcalinos"
+  },
+  {
+    "code": "alkaline",
+    "description": "Metales alcalinotérreos"
+  },
+  {
+    "code": "transition-metals",
+    "description": "Metales de transición"
+  },
+  {
+    "code": "post-transition-metals",
+    "description": "Metales postransicionales"
+  },
+  {
+    "code": "metalloids",
+    "description": "Metaloides"
+  },
+  {
+    "code": "lanthanides",
+    "description": "Lantánidos"
+  },
+  {
+    "code": "actinides",
+    "description": "Actínidos"
+  },
+  {
+    "code": "nonmetals",
+    "description": "No metales" 
+  },
+  {
+    "code": "halogens",
+    "description": "Halógenos"
+  },
+  {
+    "code": "noble-gases",
+    "description": "Gases nobles" 
+  }
+]
